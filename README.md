@@ -7,4 +7,4 @@ I'm learning right now react + backend from Telecom Academy.
 
 Right now I'm looking for junior web developer position to gain experience.
 
-If you want to chat here's my <a href="www.linkedin.com/in/isxaaq-cabdiqani-a054b73a0">[Linkedin</a>
+If you want to chat here's my <a href="www.linkedin.com/in/isxaaq-cabdiqani-a054b73a0">Linkedin</a>
